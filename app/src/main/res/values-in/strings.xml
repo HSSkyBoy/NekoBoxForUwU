@@ -204,7 +204,6 @@
     <string name="group_order_by_delay">berdasarkan delay</string>
     <string name="plugin_exists_but_on_shit_system">konfigurasi %s memerlukan plugin
         %s, tetapi penyedia perangkat proprietary Anda (biasanya juga raksasa kapitalisme pengawasan dan pembuat malware) telah merubah sistem Android Anda, sehingga plugin tersebut tidak dapat digunakan.</string>
-    <string name="menu_traffic">kecepatan</string>
     <string name="route_for">%s rute</string>
     <string name="app_no_launcher">Aplikasi ini tidak memiliki antarmuka.</string>
     <string name="copy_failed">Penggandaan gagal.</string>

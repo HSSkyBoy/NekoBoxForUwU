@@ -380,7 +380,6 @@
     <string name="ssh_public_key">公钥</string>
     <string name="ssh_auth_type_none">无</string>
     <string name="clear_logcat">清空日志</string>
-    <string name="clear_cache">清除快取</string>
     <string name="clear_cache">清除缓存</string>
     <string name="menu_log">日志</string>
     <string name="menu_tools">工具</string>
