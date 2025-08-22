@@ -100,8 +100,6 @@
     <string name="ssh_auth_type_none">Kosong</string>
     <string name="no_statistics">Belum ada statistik</string>
     <string name="menu_tools">Alat</string>
-    <string name="ssh_private_key">Kunci Privat</string>
-    <string name="ssh_public_key">Kunci Publik</string>
     <string name="profile_empty">Silakan pilih profil</string>
     <string name="auto_connect">Sambungkan Otomatis</string>
     <string name="encryption">Enkripsi</string>
@@ -218,8 +216,8 @@
     <string name="tcp_connections">%d koneksi TCP</string>
     <string name="route_need_vpn">aturan rute %s memerlukan VPN untuk berlaku, jadi aturan tersebut telah diabaikan.</string>
     <string name="ssh_private_key_passphrase">password frase untuk kunci pribadi SSH</string>
-    <string name="ssh_private_key">privasi kunci</string>
-    <string name="ssh_public_key">kunci publik</string>
+    <string name="ssh_private_key">Kunci Privat</string>
+    <string name="ssh_public_key">Kunci Publik</string>
     <string name="ssh_auth_type_none">tidak ada</string>
     <string name="clear_logcat">bersihkan logcat</string>
     <string name="clear_cache">hapus cache</string>
