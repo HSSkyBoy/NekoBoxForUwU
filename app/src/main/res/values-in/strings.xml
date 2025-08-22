@@ -217,17 +217,14 @@
     <string name="udp_connections">%d Koneksi UDP</string>
     <string name="tcp_connections">%d koneksi TCP</string>
     <string name="route_need_vpn">aturan rute %s memerlukan VPN untuk berlaku, jadi aturan tersebut telah diabaikan.</string>
-    <string name="no_statistics">tidak ada data</string>
     <string name="ssh_private_key_passphrase">password frase untuk kunci pribadi SSH</string>
     <string name="ssh_private_key">privasi kunci</string>
     <string name="ssh_public_key">kunci publik</string>
     <string name="ssh_auth_type_none">tidak ada</string>
     <string name="clear_logcat">bersihkan logcat</string>
     <string name="clear_cache">hapus cache</string>
-    <string name="clear_cache">hapus cache</string>
     <string name="menu_log">log</string>
     <string name="menu_tools">alat</string>
-    <string name="clear_cache">Bersihkan cache</string>
     <string name="clear_cache_confirm">Anda yakin ingin menghapus cache aplikasi?</string>
     <string name="clear_cache_success">Cache berhasil dibersihkan</string>
     <string name="clear_cache_failed">Gagal menghapus cache: %s</string>
