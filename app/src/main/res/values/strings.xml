@@ -351,8 +351,7 @@
     <string name="subscription_type">Subscription Type</string>
     <string name="delete_group_prompt">Are you sure you want to remove this group?</string>
     <string name="force_resolve">Force Resolve</string>
-    <string name="force_resolve_sum">Resolve all domain names to IP addresses when updating. Host
-        and SNI will be automatically appended if possible</string>
+    <string name="force_resolve_sum">Resolve all domain names to IP addresses when updating. Host and SNI will be automatically appended if possible</string>
     <string name="deduplication_sum">Remove duplicate configurations when updating</string>
     <string name="raw">Raw</string>
     <string name="update_settings">Update Settings</string>
@@ -577,6 +576,7 @@
 
     <string name="backup_local">Local Backup</string>
     <string name="backup_webdav">WebDAV Backup</string>
+    <string name="webdav_backup_summary">Backup and restore all settings and configurations to a WebDAV server.</string>
     <string name="webdav_settings">WebDAV Settings</string>
     <string name="webdav_server">Server Address</string>
     <string name="webdav_username">Username</string>
