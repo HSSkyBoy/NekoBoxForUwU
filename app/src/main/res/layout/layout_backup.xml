@@ -58,4 +58,38 @@
         android:layout_marginTop="16.0dip"
         android:text="@string/action_import_file"
         style="@style/Widget.AppCompat.Button.Colored" />
+
+    <TextView
+        android:textColor="?android:textColorTertiary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16.0dip"
+        android:text="@string/webdav_backup_summary" />
+    <Button
+        android:textColor="?android:textColorPrimaryInverse"
+        android:id="@+id/webdav_settings"
+        android:background="@drawable/uwu_bg_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16.0dip"
+        android:text="@string/webdav_settings"
+        style="@style/Widget.AppCompat.Button.Colored" />
+    <Button
+        android:textColor="?android:textColorPrimaryInverse"
+        android:id="@+id/backup_to_webdav"
+        android:background="@drawable/uwu_bg_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16.0dip"
+        android:text="@string/backup_to_webdav"
+        style="@style/Widget.AppCompat.Button.Colored" />
+    <Button
+        android:textColor="?android:textColorPrimaryInverse"
+        android:id="@+id/restore_from_webdav"
+        android:background="@drawable/uwu_bg_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16.0dip"
+        android:text="@string/restore_from_webdav"
+        style="@style/Widget.AppCompat.Button.Colored" />
 </LinearLayout>

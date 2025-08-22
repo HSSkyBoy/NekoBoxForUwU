@@ -178,6 +178,10 @@
     <string name="scanning">Scanning…</string>
     <string name="invert_selections">Invert selections</string>
     <string name="clear_selections">Clear selections</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="clear_cache_confirm">Are you sure you want to clear the application cache?</string>
+    <string name="clear_cache_success">Cache cleared successfully</string>
+    <string name="clear_cache_failed">Failed to clear cache: %s</string>
     <string name="bypass_apps">Bypass</string>
     <string name="show_system_apps">Show system apps</string>
     <string name="auto_connect">Auto Connect</string>
