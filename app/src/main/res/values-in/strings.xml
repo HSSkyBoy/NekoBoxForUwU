@@ -93,7 +93,6 @@
     <string name="project">Proyek</string>
     <string name="app_desc">Alat proxy universal untuk Android, ditulis dalam Kotlin.</string>
     <string name="no_statistics">Belum Ada Statistik</string>
-    <string name="menu_tools">Alat</string>
     <string name="profile_empty">Silakan Pilih Profil</string>
     <string name="auto_connect">Hubungkan Otomatis</string>
     <string name="encryption">Enkripsi</string>
@@ -215,15 +214,15 @@
     <string name="clear_cache">Hapus Cache</string>
     <string name="menu_log">Log</string>
     <string name="menu_tools">Alat</string>
-    <string name="clear_cache_confirm">您確定要清除應用程式快取嗎？</string>
-    <string name="clear_cache_success">快取已成功清除</string>
-    <string name="clear_cache_failed">無法清除快取：%s</string>
-    <string name="webdav_backup_summary">備份和還原所有設定和配置到 WebDAV 伺服器。</string>
-    <string name="webdav_settings">WebDAV 設定</string>
-    <string name="backup_to_webdav">備份到 WebDAV</string>
-    <string name="restore_from_webdav">從 WebDAV 還原</string>
-    <string name="webdav_backup_success">備份成功</string>
-    <string name="webdav_backup_failed">備份失敗：%s</string>
-    <string name="webdav_server_empty">WebDAV 伺服器為空</string>
-    <string name="restore_cancelled">還原已取消</string>
+    <string name="clear_cache_confirm">Apakah Anda yakin ingin membersihkan cache aplikasi?</string>
+    <string name="clear_cache_success">Cache berhasil dibersihkan</string>
+    <string name="clear_cache_failed">Gagal membersihkan cache: %s</string>
+    <string name="webdav_backup_summary">Cadangkan dan pulihkan semua pengaturan dan konfigurasi ke server WebDAV.</string>
+    <string name="webdav_settings">Pengaturan WebDAV</string>
+    <string name="backup_to_webdav">Cadangkan ke WebDAV</string>
+    <string name="restore_from_webdav">Pulihkan dari WebDAV</string>
+    <string name="webdav_backup_success">Pencadangan berhasil</string>
+    <string name="webdav_backup_failed">Pencadangan gagal: %s</string>
+    <string name="webdav_server_empty">Server WebDAV kosong</string>
+    <string name="restore_cancelled">Pemulihan dibatalkan</string>
 </resources>
