@@ -31,6 +31,9 @@
                     android:orientation="vertical"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content">
+                    	
+                    ########banner#######
+                    
                     <com.google.android.material.card.MaterialCardView
                         android:layout_width="fill_parent"
                         android:layout_height="300.0dip"
@@ -139,6 +142,9 @@
                     </com.google.android.material.card.MaterialCardView>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
+           
+            ############
+            
             <com.neko.expandable.layout.ExpandableLayout
                 android:orientation="vertical"
                 android:layout_width="fill_parent"
@@ -168,7 +174,7 @@
                             android:layout_marginBottom="16.0dip"
                             android:layout_marginStart="16.0dip"
                             android:layout_marginEnd="8.0dip">
-                            <androidx.preference.internal.PreferenceImageView
+                            <com.android.internal.widget.PreferenceImageView
                                 android:layout_width="40.0dip"
                                 android:layout_height="40.0dip"
                                 android:src="@drawable/uwu_sbuild"
