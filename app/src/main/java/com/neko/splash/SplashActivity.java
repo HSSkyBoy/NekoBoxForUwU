@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import io.nekohasekai.sagernet.ui.MainActivity;
 import io.nekohasekai.sagernet.ui.ThemedActivity;
-import com.neko.R;
+import io.nekohasekai.sagernet.R;
 
 public class SplashActivity extends ThemedActivity {
 
