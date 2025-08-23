@@ -21,7 +21,7 @@ public class SplashActivity extends ThemedActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
+        setContentView(R.layout.uwu_activity_splash);
 
         ImageView logoView = findViewById(R.id.logo_view);
         setCircularImage(logoView);
